@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>PEDIATRA.jpeg</file>
+    <file>8666749_plus_add_icon.png</file>
+    <file>8666542_save_icon.png</file>
+    <file>8666778_download_down_save_icon.png</file>
+    <file>8666719_share_icon.png</file>
+    <file>8666757_lock_security_icon.png</file>
+    <file>8666757_lock_security_icon.png</file>
+    <file>Imagen de WhatsApp 2024-08-13 a las 20.52.17_e647f5ba.jpg</file>
+    <file>Imagen de WhatsApp 2024-07-01 a las 22.24.56_ee4dc190.jpg</file>
+    <file>8666692_power_icon.png</file>
+    <file>8666609_user_icon.png</file>
+    <file>8666665_check_icon.png</file>
+  </qresource>
+</RCC>
